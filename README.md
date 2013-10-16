@@ -7,13 +7,13 @@ See http://uptimesoftware.github.io for more information.
 
 ### Category
 
-{ page.category }}
+plugin
 
 ### Version Compatibility
 
 
   
-    * Custom Remote Monitor 2.2 - 7.2, 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
+* Custom Remote Monitor 2.2 - 7.2, 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
   
 
 
@@ -37,12 +37,29 @@ WMI (agent-less), Windows, Solaris, Linux, AIX
 
 
 ### Input Variables
-* uptime agent port (default 9998)* agent password* password set up on the agent system* remote script / command* script name (posix) or command (win) set up on the agent* arguments that will be sent to the remote script
+
+* uptime agent port (default 9998)
+
+* agent password
+
+* password set up on the agent system
+
+* remote script / command
+
+* script name (posix) or command (win) set up on the agent
+
+* arguments that will be sent to the remote script
+
 
 ### Output Variables
 
+
 * string output received back from the remote script
 
+
 ### Languages Used
-* Shell/Batch* PHP
+
+* Shell/Batch
+
+* PHP
 
