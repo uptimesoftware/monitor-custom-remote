@@ -13,7 +13,7 @@ plugin
 
 
   
-* Custom Remote Monitor 2.2 - 7.2, 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
+* Custom Remote Monitor 2.1 - 7.2, 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
   
 
 
