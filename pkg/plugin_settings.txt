@@ -1,5 +1,5 @@
 name=Custom Remote Monitor
-version=2.1
+version=2.2
 platforms=windows linux solaris
 description=Execute remote scripts via the up.time agent. Can be used as a template for other custom script monitors.
 requiresAgentScript=false
