@@ -2,7 +2,7 @@
 <uptime xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.uptimesoftware.com/erdc/erdc erdc" xmlns="http://www.uptimesoftware.com/erdc/erdc" xmlns:upt="http://www.uptimesoftware.com/erdc/erdc" version="4.0" target_grouping="other">
 	<class>Custom Remote Monitor</class>
 	<exec>com.uptimesoftware.uptime.erdc.MonitorCustomScriptRunner</exec>
-	<erdc_version>3.0</erdc_version>
+	<erdc_version>3.01</erdc_version>
 	<category>Advanced and Script Monitors</category>
 	<category_related>Applications - General</category_related>
 	<grid_info>
@@ -115,5 +115,5 @@
 			</gui_type>
 		</element>
 	</elements>
-	<help>Execute remote scripts via the up.time agent. Can be used as a template for other custom script monitors.</help>
+	<help>Execute remote scripts via the up.time agent. Output from the remote string is returned as String Data.</help>
 </uptime>
