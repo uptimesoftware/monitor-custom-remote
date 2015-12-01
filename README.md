@@ -11,7 +11,7 @@ plugin
 
 ### Version Compatibility
 
-
+* Custom Remote Monitor 3.01 - 7.3,7.4,7.5,7.6
   
 * Custom Remote Monitor 2.1 - 7.2, 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
   
@@ -23,7 +23,7 @@ The Custom Remote Monitor will trigger a script on a remote system via the up.ti
 
 ### Supported Monitoring Stations
 
-7.2, 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
+7.3,7.4,7.5,7.6,7.2, 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
 
 ### Supported Agents
 WMI (agent-less), Windows, Solaris, Linux, AIX
